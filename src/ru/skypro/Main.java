@@ -3,6 +3,10 @@ package ru.skypro;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	System.out.println("пишем наше дз - правка 1 внесена");
+    System.out.println("Делаем коммит и пуш");
+    System.out.println("Переходим в гитхаб");
     }
+
+
 }
